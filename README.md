@@ -1,8 +1,8 @@
 
-Prerequisites
-• Python 3.7+
-• MySQL Server 5.7+ or 8.0+
-• SEC 13F filing files (.txt format)
+## Prerequisites
+1. Python 3.7+
+2. MySQL Server 5.7+ or 8.0+
+3. SEC 13F filing files (.txt format)
 
 Installation
 1. Install Python Dependencies
