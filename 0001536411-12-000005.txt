@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001536411-12-000005.txt : 20120514
+<SEC-HEADER>0001536411-12-000005.hdr.sgml : 20120514
+<ACCEPTANCE-DATETIME>20120514133437
+ACCESSION NUMBER:		0001536411-12-000005
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120331
+FILED AS OF DATE:		20120514
+DATE AS OF CHANGE:		20120514
+EFFECTIVENESS DATE:		20120514
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Duquesne Family Office LLC
+		CENTRAL INDEX KEY:			0001536411
+		IRS NUMBER:				273934850
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-14660
+		FILM NUMBER:		12837749
+
+	BUSINESS ADDRESS:	
+		STREET 1:		40 WEST 57TH STREET, 24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		(212) 830-6655
+
+	MAIL ADDRESS:	
+		STREET 1:		40 WEST 57TH STREET, 25TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>q1_2012-13f.txt
+<DESCRIPTION>Q1 2012 13F
+<TEXT>
+
+
+                                              UNITED STATES
+                                     SECURITIES AND EXCHANGE COMMISSION
+                                          Washington, D.C. 20549
+
+                                                  Form 13F
+
+                                           FORM 13F COVER PAGE
+
+
+Report for the Calendar Year or Quarter Ended: March 31, 2012
+                                              ----------------
+Check here if Amendment [_]; Amendment Number: N/A
+                                              -------
+This Amendment ( Check only one):        [_] is a restatement.
+                                         [_] adds new holdings entries
+
+Institutional Investment Manager Filing this Report:
+
+Name:         Duquesne Family Office LLC
+              ----------------------------------------------
+Address:      40 West 57th Street, 24th Floor
+              ----------------------------------------------
+              New York, NY 10019
+              ----------------------------------------------
+              Form 13F File Number:  028-14660
+              ----------------------------------------------
+
+The institutional investment manager filing this report and the person by whom
+it is signed herby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that is understood that all required items, statements,
+schedules, list, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:         Gerald Kerner
+              -----------------------------------------------
+Title:        General Counsel
+              -----------------------------------------------
+Phone:        412-830-6500
+              -----------------------------------------------
+
+Signature, Place, and Date of Signing:
+
+ /s/ Gerald Kerner                New York, NY                05/14/12
+----------------------           -------------------           ----------
+ [Signature]                      [City, State]                 [Date]
+
+Report Type
+
+[X] 13F HOLDINGS REPORT. (Check here if all holdings of this reporting manager
+    are reported in this report.)
+
+<PAGE>
+
+                                              FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:                   0
+                                                --------------
+Form 13F Information Table Entry Total:              35
+                                                --------------
+Form 13F Information Table Value Total:            $ 2,223,510  (thousands)
+                                                --------------
+
+List of Other Included Managers:                     NONE
+
+
+<PAGE>
+
+<TABLE>                 <C>                                       <C>
+
+Column 1                    Column 2          Column 3    Column 4        Column 5     Column 6 Column 7         Column 8
+
+                                                                                                             Voting Authority
+                            Title                           Value     Shrs Or  Sh/ Put/ Invstmt   Other    -------------------
+Name of Issuer              of Class          Cusip       (x$1000)    Prn Amt  Prn Call Dscretn   Mngrs     Sole    Shared   None
+---------------------------- --------------    ---------- ---------- ---------- --- --- -------- -------- ---------- ------ -----
+
+Abbott Laboratories         COM               002824100      25,466    415,500 SH       DEFINED             415,500
+Altria Group Inc.           COM               02209S103     106,217  3,440,800 SH       DEFINED           3,440,800
+American Express Co         COM               025816109      26,037    450,000 SH       DEFINED             450,000
+Amgen Inc.                  COM               031162100      30,056    442,200 SH       DEFINED             442,200
+Biogen Idec Inc.            COM               09062X103      25,414    201,700 SH       DEFINED             201,700
+Broadcom Corp               CL A              111320107      39,300  1,000,000 SH       DEFINED           1,000,000
+Carter's Inc.               COM               146229109      28,419    571,000 SH       DEFINED             571,000
+Celgene Corp                COM               151020104      47,070    607,200 SH       DEFINED             607,200
+Cheniere Energy Inc.        COM               16411R208      24,929  1,664,122 SH       DEFINED           1,664,122
+Chipotle Mexican Grill Inc. COM               169656105      89,452    214,000 SH       DEFINED             214,000
+Dunkin Brands Group Inc.    COM               265504100         602     20,000 SH       DEFINED              20,000
+Elan Corp                   ADR               284131208      60,135  4,006,300 SH       DEFINED           4,006,300
+Google Inc.                 CL A              38259P508      50,466     78,700 SH       DEFINED              78,700
+Halliburton Co              COM               406216101         896     27,000 SH       DEFINED              27,000
+Home Depot Inc.             COM               437076102      38,336    762,000 SH       DEFINED             762,000
+Hospira Inc.                COM               441060100      20,228    541,000 SH       DEFINED             541,000
+Incyte Corp                 COM               45337C102      19,300  1,000,000 SH       DEFINED           1,000,000
+Intermune Inc.              COM               45884X103       8,362    570,000 SH       DEFINED             570,000
+Jacobs Engr Group Inc.      COM               469814107      26,622    600,000 SH       DEFINED             600,000
+Kraft Foods Inc.            CL A              50075N104      49,983  1,315,000 SH       DEFINED           1,315,000
+Limited Brands, Inc.        COM               532716107      25,848    538,500 SH       DEFINED             538,500
+McDonald's Corp             COM               580135101      80,442    820,000 SH       DEFINED             820,000
+Merck & Co.                 COM               58933Y105      51,763  1,348,000 SH       DEFINED           1,348,000
+Nike, Inc.                  CL B              654106103      56,953    525,200 SH       DEFINED             525,200
+Pfizer Inc.                 COM               717081103      53,024  2,340,000 SH       DEFINED           2,340,000
+Qualcomm Inc.               COM               747525103      52,270    768,000 SH       DEFINED             768,000
+SPDR Gold Trust             GOLD SHS          78463V907     859,236  5,300,000 SH  CALL DEFINED           5,300,000
+Starbucks Corp              COM               855244109      67,906  1,215,000 SH       DEFINED           1,215,000
+State Bank Fin'l Corp.      COM               856190103       8,083    461,600 SH       DEFINED             461,600
+SunTrust Banks Inc.         COM               867914103      26,394  1,092,000 SH       DEFINED           1,092,000
+Tesoro Corp                 COM               881609101      18,538    690,700 SH       DEFINED             690,700
+Valero Energy Corp          COM               91913Y100      23,116    897,000 SH       DEFINED             897,000
+Wells Fargo & Co            COM               949746101      49,844  1,460,000 SH       DEFINED           1,460,000
+Westport Innovations Inc.   COM               960908309      15,883    388,138 SH       DEFINED             388,138
+Yum! Brands Inc.            COM               988498101     116,920  1,642,600 SH       DEFINED           1,642,600
+
+Grand Total                                               2,223,510
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
