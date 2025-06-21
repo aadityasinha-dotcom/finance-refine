@@ -395,7 +395,7 @@ def run_extraction():
         'host': 'localhost',
         'database': 'sec_filings',
         'user': 'root',
-        'password': 'cmipl2012'  # Update with your password
+        'password': 'password'  # Update with your password
     }
     
     file_path = '0001536411-12-000005.txt'  # Update with your file path
